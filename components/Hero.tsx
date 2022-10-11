@@ -39,7 +39,7 @@ export const Hero = () => {
         lineHeight="shorter"
         mb={5}
       >
-        Open source Dapp template for the{' '}
+        Mint dapp for {' '}
         <Text
           as="a"
           color="elvenTools.color3.base"
@@ -47,9 +47,9 @@ export const Hero = () => {
           target="_blank"
           rel="noopener noreferrer nofollow"
         >
-          Elven Tools
+          Tigers On Chain
         </Text>{' '}
-        and{' '}
+        on the{' '}
         <Text
           as="a"
           color="elvenTools.color2.base"
@@ -67,14 +67,11 @@ export const Hero = () => {
         fontWeight="thin"
         textAlign={{ base: 'center', md: 'left' }}
       >
-        The actual working example is connected to the Elven Tools smart
-        contract deployed on the Elrond blockchain{' '}
+        The mint dapp Tigers On Chain and the smart contract are officially online on the{' '}
         <Text as="span" fontWeight="medium">
           devnet
         </Text>
-        ! You can play with it. I will redeploy it from time to time to keep the
-        minting active. You can also use the template on the mainnet with a
-        couple of config changes. Check the Elven Tools website for docs.
+        for the public sale! Mint your Tigers On Chain NFT now and join the community for to enjoy many benefits reserved for holders: Jungleverse, Zombification, Airdrops etc...
       </Text>
       <Box
         display="flex"
